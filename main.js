@@ -1,0 +1,1 @@
+// Mini Javascript project from codecademy done in terminal. (About Objects and methods.)
